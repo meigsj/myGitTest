@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="text_button">Text</string>
+    <string name="image_button">Image</string>
+    <string name="web_button">Web</string>
+    <string name="toast_button">Toast</string>
+    <string name="dialog_button">Dialog</string>
+    <string name="choice">What is the best?</string>>
+    <string name="android_choice">Android!</string>
+    <string name="apple_choice">Apple!</string>
+    <string name="result_of_choice">Really? I would have chosen </string>>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
